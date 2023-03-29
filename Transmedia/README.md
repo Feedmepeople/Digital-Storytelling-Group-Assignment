@@ -1,4 +1,7 @@
 # Lesson: Digital Storytelling
+
+# Group Team: Rock and Stone
+
 # Transmedia Document
 
 ### 1. Υπόθεση και σκοπός
