@@ -49,8 +49,19 @@
 ## 9. Σκηνικά
 
 **Props**
-<p>Σ</p>
+- 2 τσάντες
++ ψώνια από μάρκετ
+* 1 βαλίτσα
 
+**Ενδυμασία*
+<p>Απλά ρούχα καθημερινότητας και φόρμες για γυμναστική.</p>
+
+**Μουσική**
+<p>Μουσική που επιλέχθηκε είναι σχετικά ατμοσφαιρική και motivational.</p>
+<p>Τα οποία είναι:</p>
+- Echoes of the Eye Soundtrack - The River: https://www.youtube.com/watch?v=LS-TwLP5v8k
++ Echoes of the Eye Soundtrack - River’s End: https://www.youtube.com/watch?v=AurKIOVHXhY
+* Franz Ferdinand - This Fire:  https://www.youtube.com/watch?v=fIR2bR8Dmi0
 
 ### Team name: Rock and Stone
 ### GitHub url: https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment
