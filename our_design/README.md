@@ -53,15 +53,28 @@
 + ψώνια από μάρκετ
 * 1 βαλίτσα
 
-**Ενδυμασία*
+**Ενδυμασία**
 <p>Απλά ρούχα καθημερινότητας και φόρμες για γυμναστική.</p>
 
 **Μουσική**
-<p>Μουσική που επιλέχθηκε είναι σχετικά ατμοσφαιρική και motivational.</p>
-<p>Τα οποία είναι:</p>
-- Echoes of the Eye Soundtrack - The River: https://www.youtube.com/watch?v=LS-TwLP5v8k
-+ Echoes of the Eye Soundtrack - River’s End: https://www.youtube.com/watch?v=AurKIOVHXhY
-* Franz Ferdinand - This Fire:  https://www.youtube.com/watch?v=fIR2bR8Dmi0
+<p>Μουσική που επιλέχθηκε είναι σχετικά ατμοσφαιρική και motivational. Τα οποία είναι:</p>
+
+## 10. Προβολή έργου
+<p>Όχι</p>
+
+## 11. Απευθυνόμενο κοινό και αγορά
+<p>Το κοινό που απευθύνετε είναι νέοι ενήλικες συγκεκριμένα σε νέους φοιτητές που μπορούν να νοιώθουν λίγο χαμένοι.</p>
+
+## 12. Εξοπλισμός
+- Κινητό: για εικόνα, ήχο, βίντεο και φωτογραφίες
++ Hitfilm express για την υλοποίηση του έργου
+
+## 13.
+
+
+1. Echoes of the Eye Soundtrack - The River: https://www.youtube.com/watch?v=LS-TwLP5v8k
+2. Echoes of the Eye Soundtrack - River’s End: https://www.youtube.com/watch?v=AurKIOVHXhY
+3. Franz Ferdinand - This Fire:  https://www.youtube.com/watch?v=fIR2bR8Dmi0
 
 ### Team name: Rock and Stone
 ### GitHub url: https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment
