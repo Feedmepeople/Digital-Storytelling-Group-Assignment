@@ -1,7 +1,12 @@
 # Lesson: Digital Storytelling
 # Design Document
 
-### Name of the team: Rock and Stone
+## 1. Υπόθεση
+
+
+
+
+### Team name: Rock and Stone
 ### GitHub url: https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment
 
 ### First and Last Name:
