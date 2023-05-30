@@ -76,6 +76,8 @@
 ## 13. Casting
 <p>Τα μέλη της ομάδας συμμετείχαν στο έργο.</p>
 
+## 14. Evaluation
+<p>Θα θέλαμε να ακολουθήσουμε το αρχικό πλάνο όπου θα υπήρχε περισσότερη δράση μέσα από αγώνες και προπόνηση.</p>
 
 ### Team name: Rock and Stone
 ### GitHub url: https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment
