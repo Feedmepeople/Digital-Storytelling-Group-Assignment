@@ -59,6 +59,10 @@
 **Μουσική**
 <p>Μουσική που επιλέχθηκε είναι σχετικά ατμοσφαιρική και motivational. Τα οποία είναι:</p>
 
+1. Echoes of the Eye Soundtrack - The River: https://www.youtube.com/watch?v=LS-TwLP5v8k
+2. Echoes of the Eye Soundtrack - River’s End: https://www.youtube.com/watch?v=AurKIOVHXhY
+3. Franz Ferdinand - This Fire:  https://www.youtube.com/watch?v=fIR2bR8Dmi0
+
 ## 10. Προβολή έργου
 <p>Όχι</p>
 
@@ -69,12 +73,9 @@
 - Κινητό: για εικόνα, ήχο, βίντεο και φωτογραφίες
 + Hitfilm express για την υλοποίηση του έργου
 
-## 13.
+## 13. Casting
+<p>Τα μέλη της ομάδας συμμετείχαν στο έργο.</p>
 
-
-1. Echoes of the Eye Soundtrack - The River: https://www.youtube.com/watch?v=LS-TwLP5v8k
-2. Echoes of the Eye Soundtrack - River’s End: https://www.youtube.com/watch?v=AurKIOVHXhY
-3. Franz Ferdinand - This Fire:  https://www.youtube.com/watch?v=fIR2bR8Dmi0
 
 ### Team name: Rock and Stone
 ### GitHub url: https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment
