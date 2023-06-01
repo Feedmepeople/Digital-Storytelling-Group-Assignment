@@ -56,7 +56,13 @@
 4. Kαι στο λιμάνι.
 
 ## 8. Αισθητική 
-<p></p>
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/6131bb45-120d-41ca-86ca-dfb15077ffb2)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/3ab96671-9076-48c4-b6f1-6857993fb06f)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/f5bece39-c0bc-4c16-bea3-b90db796c118)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/97aa9191-04a9-4021-b25b-55095a888d36)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/aab1fe99-cdde-43c1-8993-95e592a6cb04)
+
+
 
 ## 9. Σκηνικά
 
