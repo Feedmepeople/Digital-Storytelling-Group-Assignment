@@ -131,6 +131,16 @@
 ## 18. Λήψεις
 <p>Αφού βρήκαμε τα σημεία που θέλαμε για τις λήψεις μας έπρεπε να συγχρονιστούμε για τα γυρίσματα την κατάλληλη ώρα για να είναι σωστός και ο φωτισμός από τον ήλιο, για να είναι καλύτερη η κατανόηση των εκφράσεων των χαρακτήρων. Μετά από αρκετές απόπειρες λήψεων βλέπαμε ποιες από αυτές είχανε καλύτερη γωνία λήψης, ήχο και φωτισμό και αποφασίζαμε αν ήταν απαραίτητο να βγάλουμε κι άλλες ή όχι. Υπήρχαν και στιγμές όπου ξεχνούσαμε τα λόγια μας ή κολλούσαμε και περνούσε ο χρόνος. Κατά την διάρκεια των τελευταίων γυρισμάτων υπήρχαν κάποιες λήψεις όπου υπήρχε ηχορύπανση από πίσω διακόπτοντας την λήψη.</p>
 
+## 19. Σκηνές
+
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/1000cd98-75fb-4539-92c6-854c8d419d80)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/d877225d-6f6f-40fa-b569-fd21ef32d204)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/6fc8f442-285c-4ed4-b33a-cf5df1fc4977)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/3e401309-fdf0-474a-9f35-72d333ef20cb)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/98b0c8b9-9f61-4de6-b4c3-c72b96cec463)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/e191b5e6-8adb-49bf-b0a6-1affa692a6b9)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/0cd283bb-3472-44d9-bb04-a3b44f8e0433)
+
 ### Team name: Rock and Stone
 ### GitHub url: https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment
 
