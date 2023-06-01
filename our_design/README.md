@@ -57,7 +57,7 @@
 
 ## 8. Αισθητική 
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/6131bb45-120d-41ca-86ca-dfb15077ffb2)
-![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/3ab96671-9076-48c4-b6f1-6857993fb06f)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/84ab7bad-b640-474e-a2c3-cacb1e6e721d)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/1449d3bf-b30d-4749-9e6e-b76e50c42139)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/97aa9191-04a9-4021-b25b-55095a888d36)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/aab1fe99-cdde-43c1-8993-95e592a6cb04)
