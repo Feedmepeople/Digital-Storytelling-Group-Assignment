@@ -5,6 +5,7 @@
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/52fc46fa-1f2a-4b98-9fb1-b70a6a06374b)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/e719f5ae-b7a4-4a7a-b9a2-8c31b22a8691)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/a40eea23-5a23-4130-9b8c-78f991c8b598)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/e64c7860-c6dc-47e3-a0fa-f73504a6b5c9)
 
 
 ### Team name: Rock and Stone
