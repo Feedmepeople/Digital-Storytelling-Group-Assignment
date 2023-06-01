@@ -1,4 +1,8 @@
 # Lesson: Digital Storytelling
+
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/d7c56f6c-2728-4d78-978e-8b19b2577051)
+
+
 # Design Document
 
 ## 1. Υπόθεση και στόχος
@@ -52,7 +56,7 @@
 4. Kαι στο λιμάνι.
 
 ## 8. Αισθητική 
-<p>Δεν υπάρχει κάποια ιδιαίτερη επεξεργασία στην αισθητική.</p>
+<p></p>
 
 ## 9. Σκηνικά
 
