@@ -133,6 +133,8 @@
 
 ## 19. Σκηνές
 
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/92248f5c-1695-463b-ace2-9f0be0a90031)
+![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/be100029-7920-4aba-a76b-4f253db662d5)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/1000cd98-75fb-4539-92c6-854c8d419d80)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/d877225d-6f6f-40fa-b569-fd21ef32d204)
 ![image](https://github.com/Feedmepeople/Digital-Storytelling-Group-Assignment/assets/93644080/6fc8f442-285c-4ed4-b33a-cf5df1fc4977)
